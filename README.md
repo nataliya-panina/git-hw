@@ -66,9 +66,7 @@ commit 2f2610a56199f35a92cd72bf4d3168e95de1c3e6 (HEAD -> git1, origin/git1)
 4. `git commit -m "gitignore"`
 5. `git push origin git1`
 6. `git show`
-7. commit ae0088d0c504da4d1be88112b193e342e567b81e
-
-![Название скриншота 2](ссылка на скриншот 2)`
+7. https://github.com/nataliya-panina/git-hw/commit/4efa5f65462337f209504c9556130b8f74c7fe29
 
 
 ---
