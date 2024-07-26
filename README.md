@@ -31,7 +31,7 @@
 8. `git push --set-upstream origin git1`
 
 commit 2f2610a56199f35a92cd72bf4d3168e95de1c3e6 (HEAD -> git1, origin/git1)
-![git img1](https://github.com/nataliya-panina/git-hw/blob/git1/git_status1.png)
+![git img1](https://github.com/nataliya-panina/git-hw/blob/git1/img/git_status1.png)
 
 
 ---
