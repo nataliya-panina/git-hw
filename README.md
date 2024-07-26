@@ -48,6 +48,7 @@
 4. `git config --global user.name nataliya-panina && git config --global user.email nataliya.sabathier@gmail.com`
 5. `git status, git diff, git diff --staged`
 6. `git add .`
+7. `Теперь можно сделать коммит git commit -m 'First commit'.`
 
 ```
 Поле для вставки кода...
