@@ -30,9 +30,8 @@
 7. `Теперь можно сделать коммит git commit -m 'First commit'.`
 8. `git push --set-upstream origin git1`
 
-`скриншоты
-![git img1](https://github.com/nataliya-panina/git-hw/blob/git1/git_status1.png)
-`
+	`commit 2f2610a56199f35a92cd72bf4d3168e95de1c3e6 (HEAD -> git1, origin/git1)
+	![git img1](https://github.com/nataliya-panina/git-hw/blob/git1/git_status1.png)`
 
 
 ---
@@ -50,12 +49,23 @@
 
 **Решение**
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+1. `nano .gitignore:`
+	moi@vmubu:~/git-1/git-hw$ git status
+	Текущая ветка: git1
+	Эта ветка соответствует «origin/git1».
+
+	Неотслеживаемые файлы:
+	  (используйте «git add <файл>...», чтобы добавить в то, что будет включено в коммит)
+	..gitignore.swp
+
+	индекс пуст, но есть неотслеживаемые файлы
+	(используйте «git add», чтобы проиндексировать их)
+`
+2. `git status, git diff`
+3. `git add .gitignore`
+4. `git commit -m "gitignore"`
+5. `git push`
+6. ``
 
 ```
 Поле для вставки кода...
