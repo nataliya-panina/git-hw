@@ -97,7 +97,7 @@ commit 2f2610a56199f35a92cd72bf4d3168e95de1c3e6 (HEAD -> git1, origin/git1)
 7. `git merge dev`
 8. `git push origin git1`
 
-![Название скриншота](ссылка на скриншот)`
+![Network](https://github.com/nataliya-panina/git-hw/network)`
 
 ### Задание 4 *
 
