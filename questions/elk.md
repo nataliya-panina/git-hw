@@ -28,7 +28,7 @@ org.jruby.exceptions.SystemExit: (SystemExit) exit
 ![image](https://github.com/user-attachments/assets/bfabc6f3-dd05-47e4-934b-3c4297f2ba7c)
 
 
-Я пыталась ограничивать "LS_JAVA_OPTS: -Xms512m -Xmx512m", с тем же результатом. Ниже приведены конфигурационные файлы. Если кто знает, в чем тут дело, помогите пожалуйста!!!
+Я пыталась ограничивать "LS_JAVA_OPTS: -Xms512m -Xmx512m", с тем же результатом. Docker установлен на ВМ с RAM 8G. Ниже приведены конфигурационные файлы. Если кто знает, в чем тут дело, помогите пожалуйста!!!
 
 ---
 compose.yml
